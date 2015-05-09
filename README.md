@@ -1,2 +1,3 @@
 # datasciencecoursera
-Repo for coursera data science coursework
+Repo for Coursera: Data Science Coursework
+Work done by Nathan Jones (xtattik)
